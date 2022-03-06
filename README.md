@@ -11,6 +11,6 @@
 <img alt="Php" src="https://img.shields.io/badge/-Php-f05138?style=flat-square&logo=swift&logoColor=white" />
 <img alt="Css" src="https://img.shields.io/badge/-Css-03A9F4?style=flat-square&logo=swift&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/-CSharp-2ECC71?style=flat-square&logo=swift&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-f05138?style=flat-square&logo=swift&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-F1C40F?style=flat-square&logo=swift&logoColor=white" />
 <img alt="Sql" src="https://img.shields.io/badge/-Sql-f05138?style=flat-square&logo=swift&logoColor=white" />
 </p>
