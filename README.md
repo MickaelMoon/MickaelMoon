@@ -1,10 +1,7 @@
 # Bonjour toi 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Fullstack+developper;Javascript+novice)](https://git.io/typing-svg)
-
 #
-
-## 👨‍💻 Ce sur quoi je me concentre actuellement.<br/>
+## 👨‍💻 Ce sur quoi je me concentre actuellement.
 📚 Continuer d'apprendre react et javascript.<br/>
 🆙 Progresser en UI Design, et faire des projets d'app en équipe ou seul.<br/>
 💪 Je produis du contenu pour mes repertoires sur github.<br/>
