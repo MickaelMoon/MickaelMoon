@@ -11,8 +11,8 @@
 
 ##💻 Mes compétences
 <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" />
-<img alt="Php" src="https://img.shields.io/badge/-SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" />
-<img alt="Css" src="https://img.shields.io/badge/-SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/-SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" />
-<img alt="Sql" src="https://img.shields.io/badge/-SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" />
+<img alt="Php" src="https://img.shields.io/badge/-Php-f05138?style=flat-square&logo=swift&logoColor=white" />
+<img alt="Css" src="https://img.shields.io/badge/-Css-f05138?style=flat-square&logo=swift&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/-C#-f05138?style=flat-square&logo=swift&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-f05138?style=flat-square&logo=swift&logoColor=white" />
+<img alt="Sql" src="https://img.shields.io/badge/-Sql-f05138?style=flat-square&logo=swift&logoColor=white" />
