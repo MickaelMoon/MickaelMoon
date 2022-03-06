@@ -4,7 +4,7 @@
 
 #
 
-## 👨‍💻 Ce sur quoi je me concentre actuellement.
+## 👨‍💻 Ce sur quoi je me concentre actuellement.<br/>
 📚 Continuer d'apprendre react et javascript.<br/>
 🆙 Progresser en UI Design, et faire des projets d'app en équipe ou seul.<br/>
 💪 Je produis du contenu pour mes repertoires sur github.<br/>
