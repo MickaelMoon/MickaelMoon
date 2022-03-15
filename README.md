@@ -13,5 +13,5 @@
 <img alt="C#" src="https://img.shields.io/badge/-CSharp-2ECC71?style=flat-square&logo=swift&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-F1C40F?style=flat-square&logo=swift&logoColor=white" />
 <img alt="Sql" src="https://img.shields.io/badge/-Sql-F472D0?style=flat-square&logo=swift&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff3d00?style=flat-square&logo=html5&logoColor=white" />
 </p>
