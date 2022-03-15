@@ -7,7 +7,7 @@
 
 ## 💻 Mes compétences
 <p>
-<img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" />
+<img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0061FF?style=flat-square&logo=swift&logoColor=white" />
 <img alt="Php" src="https://img.shields.io/badge/-Php-8E44AD?style=flat-square&logo=swift&logoColor=white" />
 <img alt="Css" src="https://img.shields.io/badge/-Css-03A9F4?style=flat-square&logo=swift&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/-CSharp-2ECC71?style=flat-square&logo=swift&logoColor=white" />
