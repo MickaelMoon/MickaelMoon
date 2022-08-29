@@ -9,7 +9,7 @@
 <p>
 <img alt="SwiftUI" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img alt="Php" src="https://img.shields.io/badge/-Php-8E44AD?style=flat-square&logo=swift&logoColor=white" />
-<img alt="Css" src="https://img.shields.io/badge/-Css-03A9F4?style=flat-square&logo=swift&logoColor=white" />
+<img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Sql" src="https://img.shields.io/badge/-Sql-F472D0?style=flat-square&logo=swift&logoColor=white" />
