@@ -1,8 +1,8 @@
 # Bonjour toi 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Fullstack+developper;Javascript+learning)](https://git.io/typing-svg)
 ## 👨‍💻 Ce sur quoi je me concentre actuellement.
-📚 Mes études et continuer d'apprendre javascript.<br/>
-🆙 Progresser en UI Design, et faire des projets d'app seul ou en équipe.<br/>
+📚 Mes études et continuer d'apprendre des langages et frameworks.<br/>
+🆙 Progresser en UI/UX Design, et faire des projets d'app seul ou en équipe.<br/>
 💪 Je produis du contenu pour <a href="https://github.com/MickaelMoon?tab=repositories">mon répertoire</a> sur github.<br/>
 
 ## 💻 Mes compétences
